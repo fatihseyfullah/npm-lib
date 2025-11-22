@@ -1,0 +1,26 @@
+{
+  "name": "my-first-npm-package",
+  "version": "1.0.0",
+  "description": "My first NPM package published via Jenkins",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/test.js",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": [
+    "demo",
+    "first-package",
+    "jenkins"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-first-npm-package"
+  },
+  "files": [
+    "src/",
+    "README.md"
+  ]
+}
