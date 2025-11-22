@@ -1,6 +1,6 @@
 {
   "name": "btt-kurs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Şahane bir kütüphane",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
